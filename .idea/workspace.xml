@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59d7edd8-b5c0-4bbc-9b07-3d97267c17f5" name="Changes" comment="" />
+    <list default="true" id="59d7edd8-b5c0-4bbc-9b07-3d97267c17f5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bot_commands.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/bot_commands.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/handlers/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/handlers/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/handlers/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/handlers/common.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/keyboards/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/keyboards/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/keyboards/main_menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/keyboards/main_menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/services/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/services/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/services/weather.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/services/weather.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +37,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;N-888&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/N-888/TG01weather_telegram_bot.git&quot;,
+    &quot;accountId&quot;: &quot;1f949a75-9568-47d5-8840-0ee4c2a3dae3&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="3BBdFQZKaAR74ltOpHJN50fJN5p" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,6 +61,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
   }
